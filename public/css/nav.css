@@ -1,0 +1,30 @@
+/* #nav{
+    background-color: white;
+} */
+.col-md-6{
+    /* border: 1px solid blue; */
+    height: auto;
+}
+/* body{
+    background-color: green;
+} */
+ /* .container{ */
+    /* width: ; */
+ /* } */
+ #login_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ #img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+ }
+ /* #nav{
+    position: fixed;
+ } */
+  #name{
+   color:pink;
+   
+  }
